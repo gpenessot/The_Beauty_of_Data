@@ -49,6 +49,8 @@ This project visualizes global temperature trends using ERA5 climate data. It cr
    ```
    The resulting plot will be saved in the `img/` directory.
 
+   ![](./img/temperature_lollipop_plot.png)
+
 ## Data
 
 The raw ERA5 data is downloaded from the Copernicus Climate Change Service (C3S). Processed data is stored in the `data/processed/` directory.
@@ -64,12 +66,6 @@ This project draws inspiration from the work of Joseph Barbier. We gratefully ac
 - pyfonts
 - pypalettes
 
-## License
-
-[Include your chosen license here]
-
 ## Contact
 
-[Your Name] - [Your Email]
-
-Project Link: [https://github.com/your-username/era5-temperature-visualization](https://github.com/your-username/era5-temperature-visualization)
+Project Link: [https://github.com/gpenessot/The_Beauty_of_Data](https://github.com/gpenessot/The_Beauty_of_Data)
