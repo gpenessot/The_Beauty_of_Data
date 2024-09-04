@@ -2,6 +2,8 @@
 
 This project visualizes global temperature trends using ERA5 climate data. It creates a compelling lollipop plot to illustrate maximum daily temperatures from 1940 to the present.
 
+My article describe how the scripts work, you can read it [here](https://medium.data-decision.io/the-beauty-of-data-how-matplotlib-transformed-global-temperatures-into-visual-art-8e034fd21b69?sk=333b4ac6b26aaac4ac248939cce76574).
+
 ## Project Structure
 
 ```
